@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Assembly</item>
+        <item>ASP.net</item>
+        <item>Basic</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>COBOL</item>
+        <item>Clojure</item>
+        <item>Angular</item>
+        <item>React</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Delphi</item>
+        <item>Epigram</item>
+        <item>F#</item>
+        <item>Flow Java</item>
+        <item>Gambas</item>
+        <item>Go</item>
+        <item>Harbour</item>
+        <item>Hop</item>
+        <item>Interactive C</item>
+        <item>JavaScript</item>
+        <item>LiveScript</item>
+        <item>M#</item>
+        <item>NewLISP</item>
+        <item>OpenMx</item>
+        <item>P#</item>
+        <item>PHP</item>
+        <item>PostScript</item>
+        <item>QUILL</item>
+        <item>R++</item>
+        <item>Rust</item>
+        <item>SMALL</item>
+        <item>SQL</item>
+        <item>SNOBOL 4</item>
+        <item>Turbo C++</item>
+        <item>TypeScript</item>
+        <item>UNITY</item>
+        <item>UnrealScript</item>
+        <item>Ur</item>
+        <item>Visual Basic</item>
+        <item>Visual J++</item>
+        <item>WebGL</item>
+        <item>Windows App Studio</item>
+        <item>X++</item>
+        <item>XAML</item>
+        <item>XCore XS1</item>
+        <item>Yorick</item>
+        <item>Z++</item>
+        <item>Zonnon</item>
+        <item>Zig</item>
+    </string-array>
+</resources>
