@@ -4,7 +4,8 @@ O projeto a seguir foi desenvolvido com o intuito de apresentar alguns conceitos
 
 ## 🖼️ | Imagens de protótipo
 <div  align="center">
-<img src="./readmeFiles/projeto_finalizado.jpg" height="550px" width="250px">
+<img src="./img/home_words.jpeg" height="550px" width="250px">
+  <img src="./img/pesquisa_words.jpeg" height="550px" width="250px">
 </div>
 
 ## ☕ | Linguagem utilizada
